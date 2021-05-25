@@ -105,6 +105,7 @@ Microsoft Excel
 PostGreSQL
 Jupyter Notebook with Python Data Evironment
 Pandas
+Basic Machine Learning with Linear Regression graphs made using Pandas in Jupyter Notebook
 Slack
 Personal Contact Information via e-mail, phone
 Zoom
