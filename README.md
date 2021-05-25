@@ -106,6 +106,7 @@ PostGreSQL
 Jupyter Notebook with Python Data Evironment
 Pandas
 Basic Machine Learning with Linear Regression graphs made using Pandas in Jupyter Notebook
+Microsoft Word and Powerpoint
 Slack
 Personal Contact Information via e-mail, phone
 Zoom
@@ -114,6 +115,7 @@ Google Slides: Climate Change Presentation
 GitHub: CO2Emissions
 Data Resources / Software & Tools
 List of data sources can be found in the Resources folder under the "final" directory.
+Stackoverflow, Google, Youtube, and Course Materials used for reference
 
 ## Sources
 
